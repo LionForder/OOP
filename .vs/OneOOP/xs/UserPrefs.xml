@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{48ED60F5-41E1-4D67-8079-8EA40757F6F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Family.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="37" />
+      <File FileName="Family.cs" Line="37" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OneOOP" expanded="True">
+            <Node name="OneOOP" expanded="True">
+              <Node name="Family.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OneOOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

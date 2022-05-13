@@ -1,0 +1,6 @@
+/home/lion/Desktop/VSCode/CSharp/OneOOP/bin/Debug/OneOOP.exe
+/home/lion/Desktop/VSCode/CSharp/OneOOP/bin/Debug/OneOOP.pdb
+/home/lion/Desktop/VSCode/CSharp/OneOOP/obj/x86/Debug/OneOOP.csprojAssemblyReference.cache
+/home/lion/Desktop/VSCode/CSharp/OneOOP/obj/x86/Debug/OneOOP.csproj.CoreCompileInputs.cache
+/home/lion/Desktop/VSCode/CSharp/OneOOP/obj/x86/Debug/OneOOP.exe
+/home/lion/Desktop/VSCode/CSharp/OneOOP/obj/x86/Debug/OneOOP.pdb
